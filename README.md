@@ -34,7 +34,7 @@ Modern React + Tailwind responsive portfolio website.
 Python • C • C++ • JavaScript  
 
 **Embedded & Hardware:**  
-STM32 • Arduino • PWM • Timers • Hardware Interfacing  
+STM32 • Arduino • Raspberry Pi
 
 **Software & Tools:**  
 React • Tailwind • Flutter • Git • PyTorch • NumPy • Pandas  
