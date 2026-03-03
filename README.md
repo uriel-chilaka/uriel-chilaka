@@ -51,7 +51,7 @@ React • Tailwind • Flutter • Git • PyTorch • NumPy • Pandas
 ## 📫 Connect With Me
 
 LinkedIn: (https://www.linkedin.com/in/urielchilaka/)  
-Portfolio: (urielchilaka.ca)  
+Portfolio: (https://www.urielchilaka.ca/)  
 Email: (uchilaka@mun.ca)
 
 ---
