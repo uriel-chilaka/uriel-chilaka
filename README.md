@@ -6,13 +6,6 @@
 
 ---
 
-My projects focus on:
-- 🧠 AI & anomaly detection
-- 🔌 Embedded systems (STM32, Arduino)
-- 🛠️ Productivity & automation tools
-
----
-
 ## 🔥 Featured Projects
 
 ### 📚 AI-Powered Study Planner  
