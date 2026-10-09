@@ -1,81 +1,52 @@
 
-# Hey, I'm Uriel 👋
+# Hey, I'm Uriel ✳
 
-**Computer Engineering Student | Data, AI & Embedded Systems**
+Computer Engineering @ Memorial University
 
-I'm a Computer Engineering student at Memorial University of Newfoundland, currently working in Digital Transformation at Cenovus Energy.
+📍 Newfoundland, Canada &nbsp; | &nbsp; 💼 Digital Transformation @ Cenovus Energy
 
-I enjoy building projects involving data engineering, machine learning, and embedded systems, especially when they solve interesting real-world problems.
+I'm into the space where software, data, and hardware meet. Most of my time goes into Python, engineering data, and figuring out how to build things that are actually useful.
 
-## Featured Projects
+`Python` `SQL` `C++` `Data Engineering` `AI / ML`
+
+---
+
+### Things I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Engineering RAG Assistant
-**In Progress**
+**Engineering RAG** · *In progress*
 
-An AI-powered assistant for querying engineering documentation using retrieval-augmented generation.
+Making technical documentation easier to search, understand, and reference.
 
-**Focus:** Python, RAG, Vector Search
-
-</td>
-<td width="50%" valign="top">
-
-### 🏀 NBA Similarity Engine
-**In Progress**
-
-A basketball analytics platform for identifying statistically similar NBA players.
-
-**Focus:** Python, Data Analysis, ML
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-My personal website showcasing my experience, projects, and interests.
-
-[Visit Portfolio](https://www.urielchilaka.ca/)
+<sub>Python · RAG · LLMs</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Sensor Anomaly Detection
+**NBA Similarity Engine** · *In progress*
 
-An autoencoder-based anomaly detection pipeline for multi-sensor data.
+Finding statistical similarities between NBA players through data and modeling.
 
-**Focus:** PyTorch, Data Preprocessing
+<sub>Python · Analytics · ML</sub>
 
 </td>
 </tr>
 </table>
 
-## Technical Skills
+### The toolkit
 
-**Languages:** Python · SQL · C++ · C
-
-**Data & Analytics:** Databricks · PostgreSQL · Power BI · Spotfire · Aspen IP.21
-
-**AI & Machine Learning:** PyTorch · Pandas · NumPy · Scikit-learn
-
-**Embedded Systems:** STM32 · Arduino · Raspberry Pi · ESP32
-
-**Engineering Tools:** Git · Linux · MATLAB · Simulink · PSpice
-
-## Outside of Code
-
-🏀 Basketball fan who enjoys exploring sports analytics.
-
-💡 Always interested in learning new technologies and building personal projects.
+| | |
+| :--- | :--- |
+| **Languages** | Python, SQL, C++, C |
+| **Data** | Databricks, PostgreSQL, Power BI, Spotfire |
+| **Hardware** | STM32, ESP32, Raspberry Pi, Arduino |
+| **Other** | Git, Linux, MATLAB, Simulink |
 
 ---
 
-<div align="center">
+Away from the keyboard? Probably watching basketball. 🏀
 
-[Portfolio](https://www.urielchilaka.ca/) · [LinkedIn](https://www.linkedin.com/in/urielchilaka/) · [Email](mailto:uchilaka@mun.ca)
-
-</div>
+[Portfolio ↗](https://www.urielchilaka.ca/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/urielchilaka/) &nbsp; · &nbsp; [Email ↗](mailto:uchilaka@mun.ca)
