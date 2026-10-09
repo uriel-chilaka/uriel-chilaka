@@ -1,6 +1,6 @@
 ### `uriel@github:~$ whoami`
 
-# Uriel Chilaka 👋
+# Hey, I'm Uriel, welcome to my Github!
 
 **Computer Engineering Student** @ Memorial University  
 **Digital Transformation Student** @ Cenovus Energy
