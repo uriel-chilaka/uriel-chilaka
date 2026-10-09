@@ -47,7 +47,7 @@ I enjoy learning new things everyday
 | :--- | :--- | :--- |
 | Engineering RAG Assistant | Python / RAG | 🚧 In Progress |
 | NBA Similarity Engine | Python / ML | 🚧 In Progress |
-| Sensor Anomaly Detection | PyTorch | Project |
+| [Sensor Anomaly Detection](https://github.com/uriel-chilaka/sesnsor-anomaly-detection) | PyTorch | Project |
 | [Personal Portfolio](https://www.urielchilaka.ca/) | React | Live |
 
 ---
